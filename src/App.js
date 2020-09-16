@@ -1,10 +1,15 @@
 import React from 'react';
-import './App.css';
+
+import Layout from './hoc/Layout/Layout';
+import Auth from './containers/Auth/Auth';
 
 function App() {
+  
   return (
-    <div className="App">
-     <h1>LOl</h1>
+    <div>
+     <Layout>
+         <Auth />
+     </Layout>
     </div>
   );
 }

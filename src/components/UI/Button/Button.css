@@ -1,0 +1,38 @@
+.Button {
+  color: #ffffff;
+  background-color: #1877f2;
+  border: none ;
+  outline: none;
+  border-radius: 6px;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 48px;
+  padding: 0 16px;
+  width: 336px;
+  margin: 6px;
+  cursor: pointer;
+}
+
+.Button:hover {
+  background-color: #166fe5;
+}
+
+.Button:disabled {
+  color: #ccc;
+  cursor: not-allowed;
+}
+
+.Entry {
+  background-color: #1877f2;
+}
+
+.CreateAcc {
+  background-color: #42B72A;
+  line-height: 48px;
+  font-size: 18px;
+  width: 100%;
+}
+
+.CreateAcc:hover {
+  background-color: #3ba924;
+}
