@@ -3,16 +3,16 @@ Upon successful login, an avatar and the name of the person who logged in appear
 
 Login and password accounts:<br/>
                                  
-**Gubkabob Inanovi4**
-      *log:* gubkabob123
-      *password:* 123456
+**Gubkabob Inanovi4**<br/>
+      *log:* gubkabob123<br/>
+      *password:* 123456<br/>
 
-**Kitten astronaut**   
-      *log:*   kitten123
-      *password:* 25a4321
+**Kitten astronaut**   <br/>
+      *log:*   kitten123<br/>
+      *password:* 25a4321<br/>
 
 **Steve Minecraftovi4**<br/>
-      *log:* minecraft123
-      *password:* 356ds52
+      *log:* minecraft123<br/>
+      *password:* 356ds52<br/>
 
 
